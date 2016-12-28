@@ -1,1 +1,1 @@
-#Control Panel JS
+#Control Panel Angular2
